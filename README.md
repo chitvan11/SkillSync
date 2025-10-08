@@ -86,10 +86,27 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-Adarsh Verma  
-Email: Adarshve23@gmail.com  
-GitHub: [https://github.com/Swordarsh1](https://github.com/Swordarsh1)  
-LinkedIn:  https://www.linkedin.com/in/adarsh-verma-657596279/
+Chitvan Singh  
+Email: chitvansingh11@gmail.com  
+GitHub: [https://github.com/Swordarsh1](https://github.com/chitvan11)  
+LinkedIn:  https://www.linkedin.com/in/chitvansingh11/
+
+Abhinav Jaiwsal 
+Email: abhinav.jayaswal0308@gmail.com 
+GitHub: (https://github.com/abhinavjayaswal0308) 
+LinkedIn: (https://www.linkedin.com/in/abhinav-jayaswal-527616331)
+
+Adarsh Verma
+Email: Adarshve23@gmail.com
+GitHub: https://github.com/Swordarsh1
+LinkedIn: https://www.linkedin.com/in/adarsh-verma-657596279/
+
+Daksh Mehrotra 
+Email: mehrotradaksh6@gmail.com 
+Github: https://github.com/dakshhh20 
+LinkedIn : https://www.linkedin.com/in/daksh-mehrotra-82586b379/
+
+
 
 ---
 
